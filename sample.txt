@@ -1,7 +1,4 @@
 First Testing
 Second Testing
-<<<<<<< HEAD
-Fourth Testing
-=======
 Third Testing
->>>>>>> 991b60e101563e1b1d0a41bdf9d7f77116a716a0
+Fourth Testing
