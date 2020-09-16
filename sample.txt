@@ -3,3 +3,4 @@ Second Testing
 Third Testing
 Fourth Testing
 Fixed Issue #1
+Fixed Issue #3
