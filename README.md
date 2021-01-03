@@ -14,6 +14,18 @@ Git 사용법을 익히기 위한 튜토리얼용 리포지토리 입니다.
 
 
 
+## Commit Message 참고
+
+- https://tttsss77.tistory.com/58
+  - 한글로 커밋 메시지 작성 시 위 링크의 커밋 메시지 형식에 맞춰 작성하면 좋을 것 같다.
+
+- https://blog.ull.im/engineering/2019/03/10/logs-on-git.html
+  - 영어로 커밋 메시지 작성 시 간단명료하게 어떻게 적는지 잘 정리되어 있다.
+- https://jeong-pro.tistory.com/207
+  - 커밋 메시지 템플릿 만드는 법이 잘 정리되어 있다.
+
+
+
 ## Branch Naming 참고
 
 - https://rumblefish.tistory.com/65
