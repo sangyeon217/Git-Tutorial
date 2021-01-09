@@ -6,10 +6,13 @@ Git 사용법을 익히기 위한 튜토리얼용 리포지토리 입니다.
 
 - [x] git add
 - [x] git commit
+- [ ] git reset
 - [x] git push
 - [x] git branch
 - [x] git checkout
 - [x] git merge
+- [ ] git revert
+- [ ] git rebase
 - [x] git tag
 
 
@@ -36,7 +39,8 @@ Git 사용법을 익히기 위한 튜토리얼용 리포지토리 입니다.
 
 
 
-## 추가 학습이 필요한 부분
+## Reset VS. Revert
 
-- git rebase
-- git reset
+커밋 내역을 수정할 시, `git reset`은 이전 상태로 되돌려놓으면서 커밋 히스토리를 삭제한다. 반면, `git revert`는 이전 커밋 내역을 그대로 남겨두면서 revert 커밋을 추가한다.
+
+그러므로 혼자 작업하는 브랜치에서는 `git reset`을 사용해도 되지만, 다른 사람과 공유하는 브랜치에서는  `git revert`를 사용해야 한다.
